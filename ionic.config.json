@@ -1,0 +1,7 @@
+{
+  "name": "BalanceoApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
