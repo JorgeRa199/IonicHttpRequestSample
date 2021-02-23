@@ -1,7 +1,8 @@
 {
   "name": "BalanceoApp",
   "integrations": {
-    "capacitor": {}
+    "capacitor": {},
+    "cordova": {}
   },
   "type": "angular"
 }
